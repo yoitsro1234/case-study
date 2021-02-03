@@ -1,0 +1,19 @@
+#image-decor{
+    width: 650px;
+    height: 100px;
+    padding-left: 500px;
+}
+
+#main_span{
+    text-align: center;
+}
+
+#main_div{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+#test_image{
+    width: 50;
+    height: 50;
+}
